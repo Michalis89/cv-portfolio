@@ -455,7 +455,7 @@ h3.my-profession{
 
 
 .about .about-content .education,
-.about .about-content .experiance{
+.about .about-content .experience{
   flex: 0 0 50%;
   max-width: 50%;
 }
@@ -646,7 +646,7 @@ h3.my-profession{
 
 @media (max-width:940px) {
   .about .about-content .education,
-  .about .about-content .experiance,
+  .about .about-content .experience,
   .about .about-content .personal-info,
   .about .about-content .skills{
     flex: 0 0 100%;
