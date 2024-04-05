@@ -454,8 +454,8 @@ h3.my-profession{
 }
 
 
-.about .about-content .education,
-.about .about-content .experience{
+.about .about-content .experience,
+.about .about-content .education{
   flex: 0 0 50%;
   max-width: 50%;
 }
