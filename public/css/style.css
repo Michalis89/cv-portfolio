@@ -763,6 +763,22 @@ h3.my-profession{
   .portfolio .portfolio-heading{
     text-align: center;
   }
+
+  .aside {
+    width: 100%;
+    left: -600px;
+  }
+  .aside .nav-toggler.open {
+    left: 30px;
+  }
+
+   .aside.open {
+    left: 0px;
+  }
+
+  .section.open {
+    left: 0px;
+  }
 }
 
 
