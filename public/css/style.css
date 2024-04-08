@@ -754,6 +754,15 @@ h3.my-profession{
     flex-direction: column;
   }
 
+  .portfolio .filter-buttons .filter-buttons-position {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+
+  .portfolio .portfolio-heading{
+    text-align: center;
+  }
 }
 
 
