@@ -684,6 +684,17 @@ h3.my-profession{
   justify-content: center;
 }
 
+button[disabled].btn.filter-button {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button[disabled].btn.filter-button:hover {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: scale(1);
+}
+
 @media (max-width:1380px) {
   .section .container {
     padding-top: 70px;
