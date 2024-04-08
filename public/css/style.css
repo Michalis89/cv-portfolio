@@ -750,6 +750,10 @@ h3.my-profession{
     max-width: 100%;
   }
 
+  .about-content .personal-info .row {
+    flex-direction: column;
+  }
+
 }
 
 
